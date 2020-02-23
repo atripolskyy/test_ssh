@@ -1,3 +1,3 @@
 console.log('test js');
 
-const userName = 'Alex';
+const userName = 'Alex2';
